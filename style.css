@@ -9,7 +9,7 @@ body {
   -webkit-font-smoothing: antialiased;
   background: #000;
   color: #999;
-  background-image: url(chauncey.jpg)no-repeat;
+  background-image: url(chauncey.jpg);
 }
 
 ul {
